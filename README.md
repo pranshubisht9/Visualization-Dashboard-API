@@ -37,19 +37,10 @@ value=[integer]
 - **Error Response:** 
 - **Code:** 404 NOT FOUND   
 - **Content:** {"timestamp": "DATETIMESTAMP", "message": "No data found with endyear: [value]", "details": "uri=/dashboard/end-year"}
-- **Sample Call:** fetch('https://localhost:8888/dashboard/end-year/2023')   .then(response => response.json()) 
+- **Sample Call:** 
 
-`  `.then(data => { 
-
-`    `console.log(data); 
-
-`  `}) 
-
-`  `.catch(error => { 
-
-`    `console.error(error); 
-
-`  `}); 
+  fetch('http://localhost:8888/dashboard/end-year/2023')
+  .then(response => response.json()) .then(data => {  console.log(data); }) .catch(error => { console.error(error); }); 
 
 *EndPoint-2*
 
