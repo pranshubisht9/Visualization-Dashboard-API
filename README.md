@@ -25,6 +25,10 @@ In this project we have used the following technologies:
 - Javascript
 - CSS
 
+## Libraries Used
+
+- Chart.js
+
 
 **Contact Information:**  
 
