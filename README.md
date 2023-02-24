@@ -21,14 +21,11 @@ In this project we have used the following technologies:
 - Springboot
 - Hibernate
 - MySQL
-- JSP
-- Java
+- HTML
+- Javascript
+- CSS
 
 
 **Contact Information:**  
-
-**Developer:** Pranshu Singh Bisht **Email:[ pranshubisht9@gmail.com ](mailto:pranshubisht9@gmail.com)Mobile No:** 7522023037 
-
-*If you have any questions or need support with the Visualization Dashboard REST API, please contact me.* 
 
 
