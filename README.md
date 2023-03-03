@@ -30,6 +30,3 @@ In this project we have used the following technologies:
 - Chart.js
 
 
-**Contact Information:**  
-
-
